@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Armanj06/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Armanj06/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Armanj06/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Armanj06/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Armanj06/DSA/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Armanj06/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
