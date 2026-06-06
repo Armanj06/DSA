@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Armanj06/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Armanj06/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Armanj06/DSA/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Armanj06/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Armanj06/DSA/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Armanj06/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/Armanj06/DSA/tree/master/1470-shuffle-the-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Armanj06/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Armanj06/DSA/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/Armanj06/DSA/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
