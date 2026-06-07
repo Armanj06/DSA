@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Armanj06/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Armanj06/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Armanj06/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Armanj06/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Armanj06/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Armanj06/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Armanj06/DSA/tree/master/0485-max-consecutive-ones) |
@@ -48,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Armanj06/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Armanj06/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Armanj06/DSA/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Armanj06/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Armanj06/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Armanj06/DSA/tree/master/0217-contains-duplicate) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Armanj06/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Armanj06/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Armanj06/DSA/tree/master/0217-contains-duplicate) |
 ## Tree
 |  |
@@ -87,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Armanj06/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Armanj06/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
