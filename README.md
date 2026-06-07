@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Armanj06/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Armanj06/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Armanj06/DSA/tree/master/1672-richest-customer-wealth) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Armanj06/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/Armanj06/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Armanj06/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Armanj06/DSA/tree/master/0217-contains-duplicate) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Armanj06/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Armanj06/DSA/tree/master/0217-contains-duplicate) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Armanj06/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Armanj06/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
