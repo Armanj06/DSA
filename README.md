@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Armanj06/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Armanj06/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Armanj06/DSA/tree/master/1672-richest-customer-wealth) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Armanj06/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Armanj06/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/Armanj06/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Armanj06/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Armanj06/DSA/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/Armanj06/DSA/tree/master/0283-move-zeroes) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Armanj06/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Armanj06/DSA/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Armanj06/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
