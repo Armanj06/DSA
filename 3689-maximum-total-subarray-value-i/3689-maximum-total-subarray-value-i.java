@@ -7,6 +7,5 @@ class Solution {
             max=Math.max(max,num);
         }
         return (max-min)*k;
-        
     }
 }
