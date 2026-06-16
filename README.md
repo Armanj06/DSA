@@ -72,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Armanj06/DSA/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/Armanj06/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Armanj06/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Math
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Armanj06/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/Armanj06/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -112,4 +114,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Armanj06/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Armanj06/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Armanj06/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
