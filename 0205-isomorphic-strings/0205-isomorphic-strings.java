@@ -9,7 +9,6 @@ class Solution {
                 if(map1.get(c1)!=c2){
                     return false;
                 }
-
             }else{
                 map1.put(c1,c2);
             }
@@ -22,6 +21,5 @@ class Solution {
             }
         }
         return true;
-        
     }
 }
