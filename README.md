@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Armanj06/DSA/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Armanj06/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Armanj06/DSA/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/Armanj06/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Armanj06/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Dynamic Programming
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Armanj06/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Armanj06/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Armanj06/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
