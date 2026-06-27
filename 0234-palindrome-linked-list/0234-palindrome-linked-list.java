@@ -45,6 +45,5 @@ class Solution {
             secondHalfStart=secondHalfStart.next;
         }
         return true;
-        
     }
 }
